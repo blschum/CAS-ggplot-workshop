@@ -1,7 +1,5 @@
 # ggplot() Workshop
-
-ggplot2() workshop
-CAS Studio April 2021
+Built for CAS Studio April 2021
 Britta Schumacher
 
 RPubs (published knitted html) can be found [here](https://rpubs.com/blschum/CAS-ggplot-workshop).
